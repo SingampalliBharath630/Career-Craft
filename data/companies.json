@@ -1,0 +1,20 @@
+[
+    {
+        "company_id": "C101",
+        "company_name": "TCS",
+        "job_title": "System Engineer",
+        "min_cgpa": 7.0,
+        "eligible_branches": [
+            "CSE",
+            "IT"
+        ],
+        "required_skills": [
+            "Java",
+            "Python"
+        ],
+        "max_backlogs": 0,
+        "eligible_graduation_years": [
+            2027
+        ]
+    }
+]

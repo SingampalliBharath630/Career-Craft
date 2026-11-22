@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": "24311A1201",
+        "name": "Singampalli Bharath",
+        "email": "bharathsingampalli45@gmail.com",
+        "branch": "IT",
+        "cgpa": 7.5,
+        "backlogs": 0,
+        "skills": [
+            "Java"
+        ],
+        "graduation_year": 2026
+    }
+]
